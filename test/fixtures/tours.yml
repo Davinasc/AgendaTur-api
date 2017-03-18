@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exit_time: 2017-03-16 23:05:51
+  arrival_time: 2017-03-16 23:05:51
+  date: 2017-03-16
+  vacancies: 1
+  destiny: one
+  guide: one
+
+two:
+  exit_time: 2017-03-16 23:05:51
+  arrival_time: 2017-03-16 23:05:51
+  date: 2017-03-16
+  vacancies: 1
+  destiny: two
+  guide: two
